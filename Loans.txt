@@ -1,4 +1,8 @@
-borrow; Alice; 05 November 2025; Clean Code
-borrow; James; 21 September 2025; Harry Potter
-borrow; Harry; 06 June 2025; Wicked
-borrow; Sophie; 19 March 2025; Hunger Games
+borrower=Alice
+05 November 2025; Clean Code
+borrower=James
+21 September 2025; Harry Potter
+borrower=Harry
+06 June 2025; Wicked
+borrower=Sophie
+19 March 2025; Hunger Games
